@@ -24,7 +24,7 @@ public class Q2 {
                 fam++;
 
             }
-//
+//direto do github
         }
         System.out.printf("Salario mais alto: %.2f ", maxsal);
         System.out.printf("Media de salarios: %.2f", (contsal/fam));
